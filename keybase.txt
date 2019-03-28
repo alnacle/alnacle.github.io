@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alnacle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://achtung.es
+  * I am alnacle (https://keybase.io/alnacle) on keybase.
+  * I have a public key ASBIBhRDctA4H9LoMwe4weE5DSFGTMa6-r9fKJYBlMdALQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f080ec034591ff343c039c69421a77a37ef33e3058f245bdb3d577f4e62ea7680a",
+      "host": "keybase.io",
+      "kid": "01204806144372d0381fd2e83307b8c1e1390d21464cc6bafabf5f28960194c7402d0a",
+      "uid": "dc03f3f3712bae70f9965d65d3649319",
+      "username": "alnacle"
+    },
+    "merkle_root": {
+      "ctime": 1553766905,
+      "hash": "b7c9623b6b7cc7ab37e3c371b0873c2135e49102ce9bd8736fccd74384b5e81df0129ce17bfcef4489bae792bfad267079ca04a524f8593f5b42fb51fb53d20a",
+      "hash_meta": "d81c95e3c024dc297a29082bd2401828fa0915688a29daa8a97704908ee9e2ad",
+      "seqno": 5044789
+    },
+    "service": {
+      "entropy": "wKEEH9CvIsSQ9mAaiNdQfvsr",
+      "hostname": "achtung.es",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553766921,
+  "expire_in": 504576000,
+  "prev": "c7d025327013c0eec53b1f57eee1c80df1c02b2fb4b967d785160acd3cbb4c42",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSAYUQ3LQOB/S6DMHuMHhOQ0hRkzGuvq/XyiWAZTHQC0Kp3BheWxvYWTESpcCIcQgx9AlMnATwO7FOx9X7uHIDfHAKy+0uWfXhRYKzTy7TELEIA12QInWK9w4qT+0ZG9z5dwYd8kvsId5VmiH2H43xvFXAgHCo3NpZ8RApG4d3UITpRAueFzuSZlPvxF4cj/416kwxirFIOuTm1HA/zcryvUu/U2Hm02Qblrm/zukWe62kehVVH5qyi9tBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMvdR0lA/myfWhrKe9RJSdd3dFtzh5C4EQKd4JHZvRogo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alnacle
+
+==================================================================
